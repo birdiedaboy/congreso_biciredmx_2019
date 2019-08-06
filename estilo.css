@@ -367,3 +367,13 @@ body {
     background-color: #F46B5E;
     
 }
+
+nav {
+    height: 5em;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 2em;
+
+    
+        
+}

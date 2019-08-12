@@ -386,5 +386,42 @@ nav a{
     
 }
 div img{
+    padding-top: 2%;
     width: 100%;
+}
+.QE{
+    background-color: grey;
+    display: flex;
+    flex-direction: column;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    
+}
+
+h3{
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 2em;
+    justify-content: center;
+    text-align: center;
+}
+
+div p {
+    text-align: center;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 1.2em;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.registro{
+    padding: 10%;
+    background-color: #6CBCBB;
+}
+.sede{
+    padding: 10%;
+    background-color: #825B9B;
+}
+
+.contacto{
+    padding: 10%;
 }

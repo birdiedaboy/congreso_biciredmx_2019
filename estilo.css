@@ -369,8 +369,7 @@ body {
 }
 
 nav {
-    padding-top: 1%;
-    padding-bottom: 1%;
+    padding: 2%;
     font-size: 1.5em;  
     display: flex;
     justify-content: space-around;
@@ -398,7 +397,7 @@ div img{
 
 h3{
     font-family: 'Barlow Condensed', sans-serif;
-    font-size: 2.5em;
+    font-size: 2.3em;
     justify-content: center;
     text-align: center;
     color: white;
@@ -411,6 +410,7 @@ div p {
     padding-left: 15%;
     padding-right: 15%;
     color: white;
+    line-height: 150%;
 }
 
 .registro{

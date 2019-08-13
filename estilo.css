@@ -448,3 +448,16 @@ a{
     text-decoration: none;
     color: white;
 }
+
+/** Version mobile **/
+
+@media (min-width: 320px) and (max-width: 767px) {
+  
+    nav{
+        
+    }
+    
+    nav a{
+        font-size: 0.5em;
+  
+}

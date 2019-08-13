@@ -428,8 +428,10 @@ div p {
 
 .SM{
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
     color: white;
+    padding-left: 40%;
+    padding-right: 40%;
 }
 
 .logo{
@@ -437,4 +439,12 @@ div p {
     justify-content: center;
     
     
+}
+.hash{
+    padding: 3%;
+    font-weight: 700;
+}
+a{
+    text-decoration: none;
+    color: white;
 }

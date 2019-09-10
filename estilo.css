@@ -367,6 +367,16 @@ body {
     background-color: #F46B5E; 
     
 }
+.convo{
+    background-color: #6CBCBB;
+}
+.bases{
+    background-color: #6CBCBB;
+    display: flex;
+    flex-direction: column;
+    padding: 10%
+    
+}
 
 nav {
     
@@ -435,6 +445,7 @@ div a h3:hover{
 
 .contacto{
     padding: 10%;
+    background-color: #F46B5E;
 }
 
 .SM{

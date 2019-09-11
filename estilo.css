@@ -368,14 +368,23 @@ body {
     
 }
 .convo{
-    background-color: #6CBCBB;
+    background-color: #6CCFBD;
 }
 .bases{
-    background-color: #6CBCBB;
+    background-color: #6CCFBD;
     display: flex;
     flex-direction: column;
-    padding: 10%
+    padding-left: 5%;
+    padding-right: 5%;
     
+}
+.convopb{
+    
+}
+.basesp{
+    text-align: left;
+    padding-top: 5%;
+    padding-bottom: 5%;
 }
 
 nav {
@@ -406,7 +415,13 @@ nav a{
     padding: 10%
     
 }
-
+h2{
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 3em;
+    justify-content: center;
+    text-align: center;
+    color: white;
+}
 h3{
     font-family: 'Barlow Condensed', sans-serif;
     font-size: 2.3em;

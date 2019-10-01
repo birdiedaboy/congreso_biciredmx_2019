@@ -440,6 +440,11 @@ nav a{
 .hotelp{
     min-width: 50%;
 }
+.hospimg{
+    max-width: 50%;
+    height: auto;
+    
+}
 h2{
     font-family: 'Barlow Condensed', sans-serif;
     font-size: 3.2em;
@@ -529,7 +534,9 @@ main{
     padding-left: 15%;
     padding-right: 15%;
 }
-article h3
+article h3{
+    
+}
 
 /** Version mobile **/
 

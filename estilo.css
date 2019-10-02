@@ -449,9 +449,7 @@ nav a{
     max-width: 50%;
 }
 .hospimg{
-    max-width: 25%;
-    min-width: 25%;
-    max-height: 100%;
+    max-width: 50%;
     margin: 5%;
 }
 
@@ -577,5 +575,18 @@ article h3{
         width: 100%;
         height: 100%;
     }
+    .halfsie{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    }
+    main{
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+    .hotelp{
+    max-width: 80%;
+}
   
 }

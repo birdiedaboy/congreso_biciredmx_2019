@@ -448,6 +448,7 @@ nav a{
 }
 .hotelp{
     max-width: 50%;
+    color: #666666
 }
 .hospimg{
     width: 100%;
@@ -471,6 +472,7 @@ main article section strong{
 }
 b{
     font-weight: 700;
+    color: black;
 }
 h2{
     font-family: 'Barlow Condensed', sans-serif;

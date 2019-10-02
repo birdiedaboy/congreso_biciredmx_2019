@@ -433,6 +433,7 @@ nav a{
 .introhosp{
     padding-bottom: 10%;
     border-bottom: 2px solid grey;
+    color: #666666;
 }
 .hosptitle{
     color: #F46B5E;
@@ -456,7 +457,7 @@ nav a{
    padding-left: 5%;
 }
 .hosplink{
-    color: black;
+    color: #666666;
     text-decoration: none;
 }
 
@@ -472,7 +473,6 @@ main article section strong{
 }
 b{
     font-weight: 700;
-    color: black;
 }
 h2{
     font-family: 'Barlow Condensed', sans-serif;

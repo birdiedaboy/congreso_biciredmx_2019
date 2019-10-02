@@ -449,7 +449,8 @@ nav a{
     max-width: 50%;
 }
 .hospimg{
-    max-width: 50%;
+    max-width: 100%;
+    height: auto;
     margin: 5%;
 }
 

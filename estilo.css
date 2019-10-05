@@ -456,6 +456,7 @@ nav a{
     width: 100%;
     height: 100%;
    padding-left: 5%;
+    padding-right: 5%;
 }
 .hosplink{
     color: #666666;
@@ -568,9 +569,14 @@ article h3{
     
 }
 
+.ponint{
+    margin-bottom: 10%;
+    font-size: 2em;
+}
+
 /** Version mobile **/
 
-@media (min-width: 320px) and (max-width: 767px) {
+@media (min-width: 320px) and (max-width: 867px) {
   
     nav{
         

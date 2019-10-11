@@ -639,6 +639,7 @@ sup{
     
 }
 .progimg{
+
 }
 .progport{
     display: flex;
@@ -755,5 +756,11 @@ label[for="collapse"] {
     .progtext{
         width: 100%;
     }
+
+.progport{
+    padding-top: 5%;
+    margin-right: 0%;
+    
+}
   
 }

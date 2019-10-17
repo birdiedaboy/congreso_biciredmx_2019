@@ -732,12 +732,16 @@ label[for="collapse"] {
 @media only screen and (min-width: 320px) and (max-width: 1000px) {
   
     nav{
+    
         
     }
     
     nav a{
         font-size: 0.8em;
     }
+    .port{
+    padding-top: 7%;
+}
     .logo2{
         width: 100%;
         height: 100%;

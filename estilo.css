@@ -506,6 +506,7 @@ div p {
     padding: 10%;
     background-color: #6CBCBB;
     display: flex;
+    flex-direction: column;
     justify-content: center;
 }
 div a h3{

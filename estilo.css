@@ -841,5 +841,10 @@ label[for="collapse"] {
     main{
         padding-top: 10%;
     }
+    .SM{
+        padding-left: 10%;
+        padding-right: 10%;
+        display: flex;
+    }
   
 }

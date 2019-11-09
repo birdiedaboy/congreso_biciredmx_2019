@@ -642,7 +642,8 @@ sup{
     font-weight: 800;
     
 }
-.progimg{
+.porgimg{
+    
 
 }
 .progport{
@@ -730,7 +731,25 @@ label[for="collapse"] {
 }
 
 @media only screen and (min-width: 320px) and (max-width: 1000px) {
-  
+    
+    .collapsible ul {
+        box-shadow: 1px 2px 5px #aaa;
+    }
+    
+    .collapsible ul li {
+        padding: 15px 0;
+    }
+    
+    .QE, .registro, .sede {
+        padding: 15px;
+    }
+    .voluntario {
+        padding: 0 !important;
+    }
+    p {
+        padding:20px !important;
+    }
+    
     nav{
     
         
@@ -768,6 +787,10 @@ label[for="collapse"] {
     }
     .progtext{
         width: 100%;
+    }
+    .porgimg{
+        width: 100%;
+        height: auto;
     }
 
 .progport{

@@ -25,7 +25,7 @@
 
 <body>
 <nav class="navhosp">
-  <label for="collapse"><img src="img/boton-nav.svg"></label>
+  <label for="collapse"><img class="icononav" src="img/boton-nav.svg"></label>
   <input type="checkbox" id="collapse" />
   <div class="collapsible">
     <a class="logonav" href="#"><img src="img/menu11vo.png"></a>
@@ -87,10 +87,13 @@ www.3museos.com
  </div>
  <div class="voluntario" id="VL">
      <h3>Voluntariado</h3> <br>
-     <button class="tablinks" onclick="openCity(event, 'London')" id="">Da clic aqui</button>
+     <p class="volp">Si te interesa participar como voluntario da clic en el link de abajo y llena el formulario</p>
+     <button class="tablinks voltab" onclick="openCity(event, 'London')" id="">Da clic aqui</button>
      <div id="London" class="tabcontent">
-        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdPgO3y8w6hUYqXMkUvhurhNzZj3RhD_VQnHLAz2dNff1WNrg/viewform?embedded=true" width="100%" height="2361" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+       <span onclick="this.parentElement.style.display='none'" class="cerrar">cerrar</span>
+        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdPgO3y8w6hUYqXMkUvhurhNzZj3RhD_VQnHLAz2dNff1WNrg/viewform?embedded=true" width="100%" height="2661" frameborder="0" marginheight="0" marginwidth="0" class="elframe">Loading…</iframe>
          </div>
+         
     </div>
      
  

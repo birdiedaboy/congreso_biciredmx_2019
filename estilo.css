@@ -510,7 +510,17 @@ div p {
     background-color: #6CBCBB;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    align-items: center;
+}
+.regtab{
+    background-color: #F38AAB;
+    width: 70%;
+    height: 70px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.5em;
+    color: white;
+    text-shadow: 1px 1px 2px #000000;
+    box-shadow: 2px 2px 4px #000000;
 }
 div a h3{
     padding: 5%;
@@ -779,10 +789,14 @@ label[for="collapse"] {
         padding: 15px 0;
     }
     
-    .QE, .registro, .sede {
+    .QE, .sede {
         padding: 15px;
     }
     .voluntario {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
+    .registro{
         padding-left: 0 !important;
         padding-right: 0 !important;
     }

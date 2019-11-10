@@ -683,7 +683,11 @@ article h3{
     padding: 0%;
     text-align: left;
     font-size: 1.1em;
-    
+}
+.prescot{
+    color: #FC6B56;
+    text-transform: ;
+    font-size: 1.5em
 }
 sup{
     font-family: 'Poppins';

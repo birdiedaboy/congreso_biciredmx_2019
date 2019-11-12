@@ -505,6 +505,30 @@ div p {
     line-height: 150%;
 }
 
+.patrocinios{
+    padding-top: 3%;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+}
+.aliados{
+    max-width: 45%;
+}
+
+.medio{
+    max-width: 18%;
+}
+.colab{
+    max-width: 10%;
+}
+.patext{
+    color: #616C72;
+}
+.pat{
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
 .registro{
     padding: 10%;
     background-color: #6CBCBB;

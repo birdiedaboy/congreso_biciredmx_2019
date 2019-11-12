@@ -510,6 +510,10 @@ div p {
     background-color: white;
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    margin: auto;
+    padding-left: 7%;
+    width: 93%;
 }
 .aliados{
     max-width: 47%;
@@ -523,9 +527,9 @@ div p {
 }
 .patext{
     color: #616C72;
+    padding-bottom: 5%;
 }
 .pat{
-  justify-content: center;
     
 }
 .registro{

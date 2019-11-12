@@ -512,7 +512,7 @@ div p {
     flex-direction: column;
 }
 .aliados{
-    max-width: 45%;
+    max-width: 47%;
 }
 
 .medio{
@@ -525,9 +525,8 @@ div p {
     color: #616C72;
 }
 .pat{
-    align-content: center;
-    justify-content: center;
-    align-items: center;
+  justify-content: center;
+    
 }
 .registro{
     padding: 10%;
